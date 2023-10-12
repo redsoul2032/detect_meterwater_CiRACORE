@@ -8,7 +8,7 @@ The architecture of the developed model is based on YOLOv4-tiny and developed in
 
 The purpose of this project is to learning how to use CiRA CORE, design and develop water meter reading and detection, design and develop system flow, determine performance of each model and create experience in developing deep learning model.
 
-Installation guide (Thai): [คู่มือ.pdf](https://github.com/redsoul2032/detect_meterwater_cira/files/12737923/default.pdf)
+Installation guide (Thai): [Manual (Thai).pdf](https://github.com/redsoul2032/detect_meterwater_cira/files/12876531/Manual.Thai.pdf)
 
 Overview Concept
 -------------------------------
