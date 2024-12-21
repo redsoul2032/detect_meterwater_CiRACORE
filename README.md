@@ -21,3 +21,15 @@ Overview System
 <img src="./images/overview_in.png">
 
 To use this project you can download zip file and open project in software call CiRA CORE, to make it work you need to setup DeepD->D modules by add .weight file in lib folder to the modules, and apply [these code](https://github.com/redsoul2032/project-ciracore-detect-watermeter) to python module.
+
+## Project Members
+### Students
+- Panuphong Thongvilard  
+- Puriphat Jirapornsawad  
+### Advisors
+- Kwanchai Eurviriyankul  
+- Anupong Pairote  
+- Natchasit Chukiatkhajorn  
+- Phichit Thananchai  
+- Anan Tubkerd  
+- Pranote Pukkapun  
